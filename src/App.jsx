@@ -4,7 +4,7 @@ import { ExpenseProvider } from "./Components/ExpenseContext";
 
 import Navbar from "./Components/Navbar";
 import Footer from "./Components/Footer";
-import SignIn from "./Components/Signin";
+import SignIn from "./Components/SignIn";
 import SignUp from "./Components/SignUp";
 import AddExpense from "./Components/AddExpense";
 import ExpenseList from "./Components/ExpenseList";
